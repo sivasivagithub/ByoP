@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ByoP.iml" filepath="$PROJECT_DIR$/.idea/ByoP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kappiyan_Project/.idea/Kappiyan_Project.iml" filepath="$PROJECT_DIR$/../Kappiyan_Project/.idea/Kappiyan_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TFProjects/.idea/TFProjects.iml" filepath="$PROJECT_DIR$/../TFProjects/.idea/TFProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TensorFlowLab/.idea/TensorFlowLab.iml" filepath="$PROJECT_DIR$/../TensorFlowLab/.idea/TensorFlowLab.iml" />
+    </modules>
+  </component>
+</project>
