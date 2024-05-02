@@ -3,6 +3,7 @@
 
 import tensorflow as tf
 from tensorflow import keras
+# Keras is a powerful and user-friendly deep learning API written in Python.
 import numpy as np
 # numpy is a package used for mathematical calculation and array manuplation
 
@@ -22,6 +23,9 @@ Sampdat = tf.keras.datasets.imdb
 # Keras is a neural network library
 model = tf.keras.Sequential([keras.layers.Dense(units=1, input_shape=[1])])
 
+#Units -
+#Input_Shape -
+
 # Compling the model with optimizer and loss
 
 model.compile(optimizer='sgd', loss='mean_squared_error')
@@ -35,8 +39,7 @@ xs = np.array([-1,  0, 1, 2, 3, 4], dtype=int)
 ys = np.array([-3, -1, 1, 3, 5, 7], dtype=int)
 
 
-
-# Taining the model
+# Training the model
 
 model.fit(xs, ys, epochs=50)
 
