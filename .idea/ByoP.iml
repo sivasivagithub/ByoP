@@ -7,5 +7,7 @@
     <orderEntry type="module" module-name="TensorFlowLearn" />
     <orderEntry type="module" module-name="ExamPrep" />
     <orderEntry type="module" module-name="pythonForML" />
+    <orderEntry type="module" module-name="pythonKuchiMani" />
+    <orderEntry type="module" module-name="TensorFlowLab" />
   </component>
 </module>
