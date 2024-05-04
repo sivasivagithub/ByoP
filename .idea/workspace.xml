@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8781468e-8a71-4a1f-991c-463d667b94ec" name="Changes" comment="Testing">
-      <change afterPath="$PROJECT_DIR$/TestingPush.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ByoP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ByoP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8781468e-8a71-4a1f-991c-463d667b94ec" name="Changes" comment="Testing office file push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlowLab/.idea/TensorFlowLab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlowLab/.idea/TensorFlowLab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlowLab/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlowLab/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TensorFlowLab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlowLab/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pythonKuchiMani" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -61,7 +54,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "master"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
