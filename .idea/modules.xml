@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ByoP.iml" filepath="$PROJECT_DIR$/.idea/ByoP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExamPrep/.idea/ExamPrep.iml" filepath="$PROJECT_DIR$/../ExamPrep/.idea/ExamPrep.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Kappiyan_Project/.idea/Kappiyan_Project.iml" filepath="$PROJECT_DIR$/../Kappiyan_Project/.idea/Kappiyan_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TFProjects/.idea/TFProjects.iml" filepath="$PROJECT_DIR$/../TFProjects/.idea/TFProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TensorFlowLab/.idea/TensorFlowLab.iml" filepath="$PROJECT_DIR$/../TensorFlowLab/.idea/TensorFlowLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TensorFlowLearn/.idea/TensorFlowLearn.iml" filepath="$PROJECT_DIR$/../TensorFlowLearn/.idea/TensorFlowLearn.iml" />
     </modules>
   </component>
 </project>

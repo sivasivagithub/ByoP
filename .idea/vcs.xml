@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ExamPrep" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Kappiyan_Project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../TensorFlowLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TensorFlowLearn" vcs="Git" />
   </component>
 </project>
